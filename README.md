@@ -23,3 +23,4 @@ This list contains a list of papers that concerns with shape decomposition using
 12. [ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds](https://arxiv.org/abs/2003.12181) ECCV 2020
 
 ## Classical Approaches
+1. [Efficient RANSAC for Point-Cloud Shape Detection](http://www.hinkali.com/Education/PointCloud.pdf)
