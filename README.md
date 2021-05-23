@@ -1,3 +1,4 @@
+![](decomposition-methods.PNG)
 # Awesome-List-of-Shape-Decomposition-Papers
 The ability to parse 3D objects into its constituent parts is
 essential for humans to understand and interact with the
